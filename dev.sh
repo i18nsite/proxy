@@ -11,4 +11,4 @@ set -a
 set +a
 set -x
 
-watchexec -w src -e v -- v run src/main.v
+watchexec -w src -e v -- v run .
