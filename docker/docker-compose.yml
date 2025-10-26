@@ -1,0 +1,5 @@
+services:
+  kv:
+    extends:
+      file: kvrocks.yml
+      service: kv
