@@ -8,4 +8,4 @@ set -a
 set +a
 set -x
 
-v run src/main.v
+v run src
